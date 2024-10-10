@@ -2,4 +2,8 @@
 
 clase main { 
 //Aquí dentro hace cosas 
+//Declaro una variable
+int i=0
+while (i<5{
+cout<< "Hola caracola";
 }
